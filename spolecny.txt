@@ -1,3 +1,5 @@
 Spolecny soubor, kde budou oba delat zmeny:
 
 Uzivatel 2 by ale chtel neco jinyho
+
+Uzivatel 1 zase napise neco novyho
