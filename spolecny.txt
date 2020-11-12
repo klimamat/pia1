@@ -2,4 +2,4 @@ Spolecny soubor, kde budou oba delat zmeny:
 
 Uzivatel 2 by ale chtel neco jinyho
 
-Tohle je kompromis mezi uzivatelem 1 a 2
+Uzivatel 2 chce opet zmenit kompromisni verzi, tentokrat v githubu
