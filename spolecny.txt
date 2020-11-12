@@ -3,3 +3,5 @@ Spolecny soubor, kde budou oba delat zmeny:
 Uzivatel 2 by ale chtel neco jinyho
 
 Takze snad uz finalni kompromisni verze
+
+Uprava uzivatele co nema pristup
