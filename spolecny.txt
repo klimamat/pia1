@@ -6,4 +6,4 @@ Takze snad uz finalni kompromisni verze
 
 Uprava uzivatele co nema pristup
 
-Pridam dalsi radek
+Pridam dalsi radek a upravim ho
