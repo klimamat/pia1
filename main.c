@@ -2,6 +2,6 @@
 
 int main() {
 	printf("Ahoj! \n");
-	printf("Matej \n");
+	printf("Matej Klima\n");
 	return 0;
 }
